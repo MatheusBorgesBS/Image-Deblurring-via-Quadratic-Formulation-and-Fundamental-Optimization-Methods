@@ -14,7 +14,7 @@ Onde:
 
 ## ⚙️ Métodos de Otimização Implementados
 
-O notebook **PNL.ipynb** demonstra a aplicação e convergência dos seguintes métodos para encontrar a solução $x$:
+O notebook **unblur_image.ipynb** demonstra a aplicação e convergência dos seguintes métodos para encontrar a solução $x$:
 
 1.  **Descida do Gradiente (Gradient Descent - GD)**: Com passo ótimo (Busca Exata).
 2.  **Gradientes Conjugados (Conjugate Gradient - CGNE)**.
@@ -24,7 +24,7 @@ O notebook **PNL.ipynb** demonstra a aplicação e convergência dos seguintes m
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone [URL_DO_SEU_REPOSITÓRIO]
+    git clone  https://github.com/MatheusBorgesBS/Image-Deblurring-via-Quadratic-Formulation-and-Fundamental-Optimization-Methods.git
     cd desborramento-imagem
     ```
 
@@ -41,7 +41,7 @@ O notebook **PNL.ipynb** demonstra a aplicação e convergência dos seguintes m
     ```
 
 4.  **Execute o Notebook:**
-    Abra o arquivo `PNL.ipynb` em JupyterLab, VS Code ou outro ambiente compatível e execute as células.
+    Abra o arquivo `unblur_image.ipynb` em JupyterLab, VS Code ou outro ambiente compatível e execute as células.
 
 ## 🧑‍💻 Autores/Contribuidores
 * Helton Wu
