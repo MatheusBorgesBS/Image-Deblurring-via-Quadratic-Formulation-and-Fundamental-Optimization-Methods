@@ -20,6 +20,11 @@ O notebook **unblur_image.ipynb** demonstra a aplicação e convergência dos se
 2.  **Gradientes Conjugados (Conjugate Gradient - CGNE)**.
 3.  **Quasi-Newton (L-BFGS-B)**: Utilizando a implementação da biblioteca `scipy.optimize`.
 
+
+## Resultados
+!(resultado da imagem 1)[IMG_6908.jpeg]
+!(resultado da imagem 2)[IMG_6909.jpeg]
+
 ## 🛠️ Como Rodar o Projeto
 
 1.  **Clone o Repositório:**
