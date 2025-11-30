@@ -22,8 +22,8 @@ O notebook **unblur_image.ipynb** demonstra a aplicação e convergência dos se
 
 
 ## Resultados
-(resultado da imagem 1)[IMG_6908.jpeg]
-(resultado da imagem 2)[IMG_6909.jpeg]
+[IMG_6908.jpeg]
+[IMG_6909.jpeg]
 
 ## 🛠️ Como Rodar o Projeto
 
