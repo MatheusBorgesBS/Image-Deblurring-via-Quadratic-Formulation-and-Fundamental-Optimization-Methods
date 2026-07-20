@@ -1,6 +1,6 @@
 # Desborramento de Imagem (Image Deblurring)
 
-## 🎯 Objetivo
+##  Objetivo
 Este projeto implementa e compara métodos de otimização para resolver o problema de desborramento (deblurring) de imagens, modelado como um problema de minimização de erro quadrático:
 
 $$
@@ -20,12 +20,12 @@ O notebook **unblur_image.ipynb** demonstra a aplicação e convergência dos se
 2.  **Gradientes Conjugados (Conjugate Gradient - CGNE)**.
 3.  **Quasi-Newton (L-BFGS-B)**: Utilizando a implementação da biblioteca `scipy.optimize`.
 
-
 ## Resultados
-[IMG_6908.jpeg]
-[IMG_6909.jpeg]
+![Resultado 1](IMG_6908.jpeg)
 
-## 🛠️ Como Rodar o Projeto
+![Resultado 2](IMG_6909.jpeg)
+
+##  Como Rodar o Projeto
 
 1.  **Clone o Repositório:**
     ```bash
@@ -48,7 +48,7 @@ O notebook **unblur_image.ipynb** demonstra a aplicação e convergência dos se
 4.  **Execute o Notebook:**
     Abra o arquivo `unblur_image.ipynb` em JupyterLab, VS Code ou outro ambiente compatível e execute as células.
 
-## 🧑‍💻 Autores/Contribuidores
+##Autores/Contribuidores
 * [Helton Wu](https://github.com/heltonwu)
 * Matheus Borges Borba dos Santos
 * VINICIUS DE OLIVEIRA DIAS
