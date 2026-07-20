@@ -1,8 +1,11 @@
 # Desborramento de Imagem (Image Deblurring)
-## Autores/Contribuidores
+## Autores
 * [Helton Wu](https://github.com/heltonwu)
 * [Matheus Borges Borba dos Santos](https://github.com/MatheusBorgesBS)
 * Vinicius de Oliveira Dias
+
+## Motivação
+Trabalho feito para conclusão da matéria CMI043	PROGRAMAÇÃO NÃO LINEAR ministrada pela Profa. Evelin Heringer Manoel Krulikovski 
 ##  Objetivo
 Este projeto implementa e compara métodos de otimização para resolver o problema de desborramento (deblurring) de imagens, modelado como um problema de minimização de erro quadrático:
 
