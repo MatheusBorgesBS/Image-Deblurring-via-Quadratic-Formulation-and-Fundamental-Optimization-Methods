@@ -18,7 +18,7 @@ Onde:
 * $A$ é a matriz de convolução (kernel) que representa o desfoque (blur).
 * $b$ é a imagem degradada (borrada) observada.
 
-## ⚙️ Métodos de Otimização Implementados
+##  Métodos de Otimização Implementados
 
 O notebook **unblur_image.ipynb** demonstra a aplicação e convergência dos seguintes métodos para encontrar a solução $x$:
 
