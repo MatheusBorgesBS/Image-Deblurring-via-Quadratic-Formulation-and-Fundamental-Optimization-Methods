@@ -48,7 +48,7 @@ O notebook **unblur_image.ipynb** demonstra a aplicação e convergência dos se
 4.  **Execute o Notebook:**
     Abra o arquivo `unblur_image.ipynb` em JupyterLab, VS Code ou outro ambiente compatível e execute as células.
 
-##Autores/Contribuidores
+## Autores/Contribuidores
 * [Helton Wu](https://github.com/heltonwu)
 * Matheus Borges Borba dos Santos
 * VINICIUS DE OLIVEIRA DIAS
